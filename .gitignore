@@ -1,0 +1,24 @@
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# Build outputs
+*.o
+*.exe
+*.obj
+*.pdb
+*.ilk
+Debug/
+Release/
+x64/
+
+# Temporary files
+*.log
+*.bak
+*.tmp
+
+# macOS
+.DS_Store
